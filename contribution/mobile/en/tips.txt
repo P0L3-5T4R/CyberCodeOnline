@@ -32,15 +32,14 @@ Always check the market prices before putting something up for sale!
 You need a lot of Tech Scraps to open a locked container.
 Scrap your unused items to get Tech Scraps; you will need them to open locked containers.
 Ask your friendly neighbor for prices of assorted items!
-After early game, Pain Aways become virtually useless, so feel free to recycle them for ~50% chance of a Medical Tech Part per Pain Away.
-If you can't afford to print a rare equipment cache, try checking out the [PLAYER MARKET] first and seek cheaper alternatives. You might find affordable items for your level.
+After early game, Pain Aways become virtually useless to heal with, so feel free to recycle them for ~50% chance of a Medical Tech Part per Pain Away.
+If you can't afford to print a certain quality of equipment cache, try checking out the [PLAYER MARKET] first and seek cheaper alternatives. You might find affordable items for your level.
 Inventory management is crucial.
 You can switch equipment during a dungeon.
 You can craft healing items mid-dungeon to restock.
 Each mod can add up to 5% critical chance bonus.
 You can obtain a steady source of Ai Cores and Hash Processors by defeating the boss in a challenge difficulty dungeon.
 Need some extra space in your inventory? Equip gear or modules with the "pocket" modifier.
-Crit damage on upgrades can go above 10%!
 Remember to max out your PRINTING RANK before printing your equipment.
 Did you find a locked container? You can open it in [TERMINAL], but you'll need some Tech Scrap and BTC.
 If you feel your inventory is constantly full, now might be a good time to consider that new backpack upgrade.
@@ -103,11 +102,11 @@ Inventory full? Sell your non-essential items in the player market or to your lo
 Being in a gang has the perks of accessing a few new AFK tasks, as well as the gang dungeon. Plus, playing with others just makes the game much better!
 Want to be in a gang? You will have to be invited by someone. There is no application button.
 If you have a fully looted dungeon that you would like to leave, it is good etiquette to post an invite to chat before leaving, so that everyone can go and loot the dungeon.
-Epic caches cost an arm and a leg. If you are at a low level, try selling them though an auction in chat to boost your balance by a significant amount!
+Epic caches cost an arm and a leg. If you are lucky enough to get one at a low level, try selling them though an auction in chat to boost your balance by a significant amount!
 Since you can't send BTC to players directly, AI Cores and other items replace BTC in direct trades with the gift function. Stock up when buying items from a trader directly.
-Look out for special events like AFK global time skips or calibration boosts in Chat every now and then. You don't want to miss out on these!
+Look out for special events like calibration "trains" in Chat every now and then. You don't want to miss out on these!
 Check the player market often to get an idea on the value of your inventory, and if you should buy or sell your items!
-Gear that has a 100% or more chance to break in calibration needs the percentage lowered by using a buff in the Arasaka Unit Exchange. This benefits not only you, but everyone else playing. Alteratively, rare locked containers have a variation that only affects you.
+Gear that has a 100% or higher chance to break in calibration can be lowered by using a global buff in the Arasaka Unit Exchange. Alteratively, rare locked containers have a variation that only affects you.
 Calibrating gear makes it stronger, but calibrated gear cannot be gifted or sold until you use a [Factory Reset Shard] on it.
 Each level of calibration on gear adds more to the item than the last level, but is more likely to break the item as well.
 You can use AI cores in locations with much higher level than you. Collect keys from dungeons to unlock them early.
@@ -166,7 +165,6 @@ Feeling faint? Take a break and get some food.
 Don't forget to hydrate yourself!
 Go ahead. Hand over that potato to our awesome dev Dexter Huang.
 Look at this tips bar down here. We have some awesome tips for you.
-It's customary to go clockwise in public dungeons.
 Supporting the game by subscribing to a donation package allows you to have a custom profile picture in-game and/or a colored name border in the chat.
 Donations and memberships grant no in-game advantages.
 Don't forget to feed your pets!
